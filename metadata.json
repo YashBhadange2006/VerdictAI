@@ -1,0 +1,5 @@
+{
+  "name": "ConsumerShield AI",
+  "description": "A legal strategy dashboard that analyzes consumer grievances against uploaded Acts and Judgments using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
