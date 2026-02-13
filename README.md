@@ -2,10 +2,10 @@
 
 > Empowering everyday citizens against corporate malpractice — transforming raw grievances into professional, data-backed legal strategies instantly.
 
-![Dashboard](image/Dashboard1.png)
-![Dashboard](image/Dashboard2.png)
-![DratNoticePage](image/DraftNotice.png)
-![LocakStorageCases_WebPage](image/Local_Storage_Cases.png)
+![Dashboard](images/Dashboard1.png)
+![Dashboard](images/Dashboard2.png)
+![DratNoticePage](images/DraftNotice.png)
+![LocakStorageCases_WebPage](images/Local_Storage_Cases.png)
 ---
 
 ## The Problem
